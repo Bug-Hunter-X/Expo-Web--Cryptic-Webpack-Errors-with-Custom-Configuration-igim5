@@ -1,0 +1,1 @@
+This bug occurs when using the Expo Web API with a custom webpack configuration.  The error message is cryptic, often related to module resolution or missing dependencies, even if the dependencies are correctly installed. The problem stems from conflicts between Expo's internal webpack configuration and the custom one.
